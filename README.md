@@ -1,4 +1,4 @@
-# Tech Stack: Kotlin, MVVM, DI, Room, Navigation, viewbinding, databinding, unit testing, ui testing, coroutine
+# Tech Stack: Kotlin, MVVM, DI, Room, Navigation, coroutine, viewbinding, databinding, unit testing, ui testing
 
 ### Create a CurrencyListFragment that can be reused for different purposes, such as displaying Crypto Currency and Fiat Currency.
   - CurrencyListFragment will accept CurrencyInfo and display it with recyclerview
