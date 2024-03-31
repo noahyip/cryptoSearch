@@ -35,7 +35,7 @@ class DemoActivity : AppCompatActivity() {
                 if (success)
                     Toast.makeText(applicationContext, "Data cleared", Toast.LENGTH_SHORT).show()
                 else
-                    Toast.makeText(applicationContext, "Fail", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(applicationContext, "No Data to clear", Toast.LENGTH_SHORT).show()
             }
         }
 
