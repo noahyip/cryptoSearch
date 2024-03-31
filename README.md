@@ -1,3 +1,5 @@
+Tech Stack: Kotlin, MVVM, DI, Room, Navigation, viewbinding, databinding, unit testing, ui testing, coroutine
+
 Create a CurrencyListFragment that can be reused for different purposes, such as displaying Crypto Currency and Fiat Currency.
   -CurrencyListFragment will accept CurrencyInfo and display it with recyclerview
   -to allow reuse and expand, crytp currency and fiat currency will implement CurrencyInfo class. If there are new currency, it just need to implement currencyInfo then pass into fragment will be ok
